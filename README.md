@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter    3 hrs 5 mins    █████████████████████████   99.99 %
+Jupyter    2 hrs 49 mins   █████████████████████████   99.99 %
 textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
