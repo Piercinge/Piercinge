@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter   1 hr 35 mins    █████████████████████████   100.00 %
+Jupyter   1 hr 4 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
