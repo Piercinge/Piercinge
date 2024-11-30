@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             6 hrs 41 mins   ████████████████████▒░░░░   81.50 %
-JavaScript         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Jupyter            22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-YAML               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Requirements.txt   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Python             6 hrs 38 mins   ██████████████████████░░░   88.13 %
+JavaScript         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Requirements.txt   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Vue.js             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+TypeScript         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
