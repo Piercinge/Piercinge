@@ -12,3 +12,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_LINES_OF_CODE: "True"  # 显示截至日期写入的代码行数
+          SHOW_OS: "True" # 显示系统
