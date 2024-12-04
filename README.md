@@ -6,7 +6,7 @@
 
 ### Piercinge
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoran_ni&layout=compact&range=all_time)](https://github.com/haoran_ni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoran_ni&layout=compact&range=all_time)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoran_ni&size_weight=0.5&count_weight=0.5)
 
