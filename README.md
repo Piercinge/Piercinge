@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoran_ni&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://wakatime.com/@2e7a1580-9a6c-4340-8b70-5b56364a5d8c"><img src="https://wakatime.com/badge/user/2e7a1580-9a6c-4340-8b70-5b56364a5d8c.svg" alt="Total time coded since Aug 2 2024" /></a>
+
 <!--START_SECTION:waka-->
 
 ```txt
