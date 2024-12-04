@@ -20,6 +20,9 @@ C                  26 mins         ▓░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <!---
 oidin5464/oidin5464 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
