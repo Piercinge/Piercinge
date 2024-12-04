@@ -7,7 +7,7 @@
 ### Piercinge
 
 https://github-readme-stats.vercel.app/api/wakatime?username=Piercinge&layout=compact&theme=gruvbox&hide_border=true
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piercinge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piercinge&layout=compact&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
