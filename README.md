@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nhrnihaoran@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piercinge)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piercinge)](https://github.com/anuraghazra/github-readme-stats&range=all_time)
 
 <!--START_SECTION:waka-->
 
