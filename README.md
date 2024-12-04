@@ -6,9 +6,7 @@
 
 ### Piercinge
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoran_ni&layout=compact&range=all_time)]
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoran_ni&size_weight=0.5&count_weight=0.5)
+<figure><embed src="https://wakatime.com/share/@haoran_ni/b2869969-7c4e-475a-83d7-85a26990a3cb.svg"></embed></figure>
 
 <!--START_SECTION:waka-->
 
