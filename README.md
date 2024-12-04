@@ -6,10 +6,6 @@
 
 ### Piercinge
 
-https://github-readme-stats.vercel.app/api/wakatime?username=Piercinge&layout=compact&theme=gruvbox&hide_border=true
-
-https://github-readme-stats.vercel.app/api/wakatime?username=Piercinge&langs_count=5&theme=dark&range=last_7_days
-
 <!--START_SECTION:waka-->
 
 ```txt
