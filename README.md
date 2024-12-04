@@ -6,7 +6,7 @@
 
 ### Piercinge
 
-<figure><embed src="https://wakatime.com/share/@haoran_ni/b2869969-7c4e-475a-83d7-85a26990a3cb.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoran_ni/48d32ab7-16dd-4d92-9eeb-ae9d66413442.png" /></a>
 
 <!--START_SECTION:waka-->
 
