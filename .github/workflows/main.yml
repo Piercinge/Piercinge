@@ -12,5 +12,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: Ture
-          SHOW_LOC_CHART: Ture
+          SHOW_LINES_OF_CODE: True
+          SYMBOL_VERSION: 3
