@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             10 hrs 40 mins  eeeeeeeeeeeeeeerTTTTTTTTT   62.08 %
-Jupyter            4 hrs 11 mins   eeeeeeTTTTTTTTTTTTTTTTTTT   24.37 %
-TypeScript         33 mins         rTTTTTTTTTTTTTTTTTTTTTTTT   03.21 %
-JavaScript         31 mins         rTTTTTTTTTTTTTTTTTTTTTTTT   03.02 %
-C                  26 mins         rTTTTTTTTTTTTTTTTTTTTTTTT   02.54 %
+Python             10 hrs 40 mins  ███████████████▓░░░░░░░░░   62.08 %
+Jupyter            4 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+TypeScript         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+JavaScript         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+C                  26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
