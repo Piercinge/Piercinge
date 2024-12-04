@@ -6,8 +6,7 @@
 
 ### Piercinge
 
-https://github-readme-stats.vercel.app/api/wakatime?username=haoran_ni&layout=compact&theme=gruvbox&hide_border=true
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoran_ni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoran_ni&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
