@@ -2,11 +2,27 @@
 - 👀 I’m interested in ML LLM
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nhrnihaoran@gmail.com
+- 📫 How to reach me n
+- hrnihaoran@gmail.com
+
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+                <a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoran_ni/48d32ab7-16dd-4d92-9eeb-ae9d66413442.png" /></a>
+            </td>
+            <td>
+                <!--右侧内容-->
+                ![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+                ![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only)
+            </td>
+        </tr>
+    </table>
+</html>
+
 
 ### Piercinge
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoran_ni/48d32ab7-16dd-4d92-9eeb-ae9d66413442.png" /></a>
 
 <!--START_SECTION:waka-->
 
@@ -19,9 +35,6 @@ C                  26 mins         ▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!---
 oidin5464/oidin5464 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
