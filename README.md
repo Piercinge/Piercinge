@@ -5,17 +5,29 @@
 - 📫 How to reach me n
 - hrnihaoran@gmail.com
 
-<!--START_SECTION:waka-->
-
-```txt
-Python             10 hrs 40 mins  ███████████████▓░░░░░░░░░   62.08 %
-Jupyter            4 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   24.37 %
-TypeScript         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-JavaScript         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-C                  26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-```
-
-<!--END_SECTION:waka-->
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+              <!--START_SECTION:waka-->
+              
+              ```txt
+              Python             10 hrs 40 mins  ███████████████▓░░░░░░░░░   62.08 %
+              Jupyter            4 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+              TypeScript         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+              JavaScript         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+              C                  26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+              ```
+              
+              <!--END_SECTION:waka-->
+            </td>
+            <td>
+                <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only" class="dark-mode-only" alt="GitHub Stats Dark Mode">
+                <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only" class="light-mode-only" alt="GitHub Stats Light Mode">
+            </td>
+        </tr>
+    </table>
+</html>
 
 ![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only)
