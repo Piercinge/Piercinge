@@ -1,7 +1,3 @@
-![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-
 <img align="right" src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only">
 <img align="right" src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 
@@ -28,5 +24,7 @@ C                  26 mins         ▓░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoran_ni/48d32ab7-16dd-4d92-9eeb-ae9d66413442.png" /></a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piercinge&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://wakatime.com/@2e7a1580-9a6c-4340-8b70-5b56364a5d8c"><img src="https://wakatime.com/badge/user/2e7a1580-9a6c-4340-8b70-5b56364a5d8c.svg" alt="Total time coded since Aug 2 2024" /></a>
