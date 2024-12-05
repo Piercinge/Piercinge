@@ -1,33 +1,11 @@
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="padding: 20px; vertical-align: top; width: 50%;">
-      <p>- 👋 Hi, I’m @Piercinge</p>
-      <p>- 👀 I’m interested in ML LLM</p>
-      <p>- 🌱 I’m currently learning c/c++</p>
-      <p>- 💞️ I’m looking to collaborate on ...</p>
-      <p>- 📫 How to reach me:</p>
-      <p>hrnihaoran@gmail.com</p>
-    </td>
-    <td style="padding: 20px; vertical-align: top; width: 50%;">
-      <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only" class="light-mode-only" alt="GitHub Stats Light Mode">
-    </td>
-  </tr>
-</table>
+👋 Hi, I’m @Piercinge
+👀 I’m interested in ML LLM
+🌱 I’m currently learning c/c++
+💞️ I’m looking to collaborate on ...
+📫 How to reach me: nhrihaoran@gmail.com
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <div style="flex: 1; padding: 20px;">
-    <p>- 👋 Hi, I’m @Piercinge</p>
-    <p>- 👀 I’m interested in ML LLM</p>
-    <p>- 🌱 I’m currently learning c/c++</p>
-    <p>- 💞️ I’m looking to collaborate on ...</p>
-    <p>- 📫 How to reach me:</p>
-    <p>hrnihaoran@gmail.com</p>
-  </div>
-  <div style="flex: 1; padding: 20px;">
-    <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only" class="light-mode-only" alt="GitHub Stats Light Mode">
-  </div>
-</div>
-
+![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
 
