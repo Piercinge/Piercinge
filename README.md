@@ -9,7 +9,6 @@
       <p>hrnihaoran@gmail.com</p>
     </td>
     <td style="padding: 20px; vertical-align: top; width: 50%;">
-      <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only" class="dark-mode-only" alt="GitHub Stats Dark Mode">
       <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only" class="light-mode-only" alt="GitHub Stats Light Mode">
     </td>
   </tr>
@@ -25,7 +24,6 @@
     <p>hrnihaoran@gmail.com</p>
   </div>
   <div style="flex: 1; padding: 20px;">
-    <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only" class="dark-mode-only" alt="GitHub Stats Dark Mode">
     <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only" class="light-mode-only" alt="GitHub Stats Light Mode">
   </div>
 </div>
