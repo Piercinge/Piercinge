@@ -5,21 +5,11 @@
 - 📫 How to reach me n
 - hrnihaoran@gmail.com
 
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                <!--左侧内容-->
-                <a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoran_ni/48d32ab7-16dd-4d92-9eeb-ae9d66413442.png" /></a>
-            </td>
-            <td>
-                <!--右侧内容-->
-                ![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-                ![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only)
-            </td>
-        </tr>
-    </table>
-</html>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoran_ni/48d32ab7-16dd-4d92-9eeb-ae9d66413442.png" /></a>
+
+![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 
 ### Piercinge
