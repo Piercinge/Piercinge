@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oidin5464
+- 👋 Hi, I’m @Piercinge
 - 👀 I’m interested in ML LLM
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on ...
