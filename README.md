@@ -16,6 +16,20 @@
         </tr>
     </table>
 </html>
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <p>- 👋 Hi, I’m @Piercinge</p>
+    <p>- 👀 I’m interested in ML LLM</p>
+    <p>- 🌱 I’m currently learning c/c++</p>
+    <p>- 💞️ I’m looking to collaborate on ...</p>
+    <p>- 📫 How to reach me n</p>
+    <p>- hrnihaoran@gmail.com</p>
+  </div>
+  <div style="flex: 1;">
+      <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only" class="dark-mode-only" alt="GitHub Stats Dark Mode">
+    <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only" class="light-mode-only" alt="GitHub Stats Light Mode">    
+  </div>
+</div>
 
 <!--START_SECTION:waka-->
 
