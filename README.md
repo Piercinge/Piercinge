@@ -1,3 +1,10 @@
+![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
+<img align="right" src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only">
+<img align="right" src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+
 👋 Hi, I’m @Piercinge
 
 👀 I’m interested in ML LLM
@@ -7,9 +14,6 @@
 💞️ I’m looking to collaborate on ...
 
 📫 How to reach me: nhrihaoran@gmail.com
-
-![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
 
