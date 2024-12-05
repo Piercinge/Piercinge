@@ -22,7 +22,9 @@ JavaScript         31 mins         ▓░░░░░░░░░░░░░░
 C                  26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
-<!--END_SECTION:waka
+<!--END_SECTION:waka-->
+
+<br>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoran_ni/48d32ab7-16dd-4d92-9eeb-ae9d66413442.png" /></a>
 
