@@ -11,6 +11,7 @@
 
 📫 How to reach me: nhrihaoran@gmail.com
 
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -24,6 +25,8 @@ C                  26 mins         ▓░░░░░░░░░░░░░░
 <!--END_SECTION:waka
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoran_ni/48d32ab7-16dd-4d92-9eeb-ae9d66413442.png" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piercinge)
 
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piercinge&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
