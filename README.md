@@ -1,7 +1,7 @@
 <html>
-    <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: 0;">
+    <table style=""border: none; width: 100%;"">
         <tr>
-            <td style="padding: 10px; vertical-align: top;">
+            <td style="padding: 20px; vertical-align: top;">
                 <p>- 👋 Hi, I’m @Piercinge</p>
                 <p>- 👀 I’m interested in ML LLM</p>
                 <p>- 🌱 I’m currently learning c/c++</p>
@@ -9,7 +9,7 @@
                 <p>- 📫 How to reach me n</p>
                 <p>- hrnihaoran@gmail.com</p>
             </td>
-            <td style="padding: 10px; vertical-align: top;">
+            <td style="padding: 20px; vertical-align: top;">
                 <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-dark-mode-only" class="dark-mode-only" alt="GitHub Stats Dark Mode">
                 <img src="https://raw.githubusercontent.com/Piercinge/github-stats/master/generated/overview.svg#gh-light-mode-only" class="light-mode-only" alt="GitHub Stats Light Mode">
             </td>
