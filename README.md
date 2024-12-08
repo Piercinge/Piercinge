@@ -11,7 +11,7 @@
 
 💞️ I’m looking to collaborate on ...
 
-📫 How to reach me: nhrihaoran@gmail.com
+📫 How to reach me: nhrnihaoran@gmail.com
 
 <br><br>
 
