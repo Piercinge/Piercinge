@@ -18,11 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         3 hrs 7 mins    ████████████████████▓░░░░   82.97 %
-Vue.js         21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-TypeScript     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Text           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Markdown       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
