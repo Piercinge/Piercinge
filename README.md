@@ -18,7 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python         0 secs          ████████████▓░░░░░░░░░░░░   50.63 %
+ObjectiveC     0 secs          ████████▒░░░░░░░░░░░░░░░░   33.56 %
+YAML           0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Markdown       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+HTTP Request   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
