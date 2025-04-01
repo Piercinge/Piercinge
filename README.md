@@ -18,9 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         0 secs          ███████████████████████░░   92.53 %
-HTTP Request   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-YAML           0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
