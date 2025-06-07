@@ -18,11 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         1 hr 34 mins    ███████████████████████░░   91.71 %
-Vue.js         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-YAML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-TypeScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
