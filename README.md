@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             22 hrs 7 mins   ██████████████████▒░░░░░░   73.85 %
-Jupyter            3 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-JSON-lines         2 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Text               31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Requirements.txt   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Python             19 hrs 15 mins  ███████████████████░░░░░░   75.45 %
+Jupyter            4 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+JSON-lines         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Text               31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Requirements.txt   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
